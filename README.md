@@ -17,7 +17,7 @@ This is a web application made using Python Flask framework. The application wil
 
 <h2>Expected Interfaces:</h2>
 
-<img src="https://github.com/bhatnagaranshika02/Flasky/blob/master/prj2.png">
+<img src="https://github.com/bhatnagaranshika02/Blogify/blob/master/prj2.png">
 <br>
 <h3>System Flowchart</h3>
 
