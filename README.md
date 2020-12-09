@@ -1,8 +1,5 @@
 # Blogify
 
-<h3>Author<h3>
-<p>Anshika Bhatnagar</p>
-
 <h2>Project Idea:</h2>
 <p>This is a web application useful for making blogs. You can also read, delete, update your blogs.</p>
 
@@ -12,12 +9,9 @@
 <h2>Brief Description:</h2>
 <p> This is a web application made using Python Flask framework. The application will be used for facilitating users to make blogs. The users can make blogs on it, on completion can remove them. In case in some change of plans, can edit the blog. If required, we would add an admin functionality also to make it good. I created it during Tinkerhub Foundation's online mentored learning program "Python Beyond Basics" </p>
 
-<h2>Expected Interfaces:</h2>
+<h2>Expected Interfaces (System Flowchart):</h2>
 <p>
-  <figure>
     <img src="https://github.com/bhatnagaranshika02/Blogify/blob/master/prj2.png"/>
-    <figcaption><center>System Flowchart</h3></center></figcaption>
-  </figure>
 </p>
 
 <h2>Project Plan</h2>
@@ -38,9 +32,9 @@
 
 <h2>Screenshots</h2>
 <p>
-  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic1.png" alt="Pic1"> <br/>
-  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic2.png" alt="Pic2"> <br/>
-  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic3.png" alt="Pic3"> <br/>
+  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic1.png" alt="Pic1"> <br/><br/>
+  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic2.png" alt="Pic2"> <br/><br/>
+  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic3.png" alt="Pic3"> <br/><br/>
 </p>
 
 <h2>My Experience</h2>
