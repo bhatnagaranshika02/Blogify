@@ -32,9 +32,9 @@
 
 <h3>Screenshots</h3>
 <p>
-  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic1.png" alt="Pic1"> <br/><br/>
-  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic2.png" alt="Pic2"> <br/><br/>
-  <img height=500 width=1000 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic3.png" alt="Pic3"> <br/><br/>
+  <img height=400 width=800 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic1.png" alt="Pic1"> <br/><br/><br/><br/>
+  <img height=400 width=800 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic2.png" alt="Pic2"> <br/><br/><br/><br/>
+  <img height=400 width=800 src="https://github.com/bhatnagaranshika02/Blogify/blob/master/screenshots/pic3.png" alt="Pic3"> <br/><br/><br/><br/>
 </p>
 
 <h3>My Experience</h3>
