@@ -1,11 +1,11 @@
-# Flasky
+# Blogify
 
 <h3>Author-Anshika Bhatnagar</h3>
 
 <h2>Project Idea:</h2>
 
 <h3>Blogify</h3>
-This is a web application useful for making blogs.You can also read ,delete, update your blogs.
+This is a web application useful for making blogs. You can also read ,delete, update your blogs.
 
 <h2>Project Link:</h2>
 
@@ -13,7 +13,7 @@ https://github.com/bhatnagaranshika02/Flasky
 
 <h2>Brief Description:</h2>
 
-This is a web application made using Python Flask framework. The application will be used for facilitating users to make blogs. The users can make blogs on it, on completion can remove them. In case in some change of plans, can edit the blog. If required, we would add an admin functionality also to make it good.
+This is a web application made using Python Flask framework. The application will be used for facilitating users to make blogs. The users can make blogs on it, on completion can remove them. In case in some change of plans, can edit the blog. If required, we would add an admin functionality also to make it good. I created it during Tinkerhub Foundation's online mentored learning program "Python Beyond Basics"
 
 <h2>Expected Interfaces:</h2>
 
@@ -35,6 +35,9 @@ Day Nine: Improve the page<br/>
 Day Ten: Make the header footer reusable<br/>
 Day Eleven: Do some more improvement<br/>
 Day Twelve: Deploy the app on Heroku<br/>
+
+<h2>Screenshots</h2>
+
 
 <h2>My Experience</h2>
 
